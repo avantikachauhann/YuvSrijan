@@ -8,6 +8,8 @@ At YuvSrijan, we aim to provide a **(digital)** platform for school/university s
 
 The main problem we wish to address is to provide community engagement among students under various organisations (school/college) so that people can align with similar ideas, and like-minded individuals and also learn from real-life heroes and changemakers already existing in our society.
 
+--PROPOSED SOLUTION
+
 The working of YuvSrijan can be demonstrated as:
 1. Connecting Students by developing a web portal
 2. Providing more student engagement
