@@ -104,7 +104,7 @@ const page = () => {
                 <div className="container px-5 py-5 mx-auto">
                     <div className="flex flex-wrap w-full mt-3 ">
                         <div className="lg:w-1/2 w-full lg:mb-0">
-                            <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">Wanna Register for the Student Lead !!</h1>
+                            <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white">Wanna Register for the Student Lead?</h1>
                             <div className="h-1 w-80 bg-indigo-500 rounded"></div>
                         </div>
                     </div>
@@ -124,8 +124,8 @@ const page = () => {
                                 </svg>
                             </div>
                             <div className="flex-grow">
-                                <h2 className="text-white text-lg title-font font-medium mb-3">Shooting Stars</h2>
-                                <p className="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.</p>
+                                <h2 className="text-white text-lg title-font font-medium mb-3">Giveaways</h2>
+                                <p className="leading-relaxed text-base">Get exciting goodies and Swags</p>
                                 <a className="mt-3 text-indigo-400 inline-flex items-center">Learn More
                                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                         <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -142,8 +142,8 @@ const page = () => {
                                 </svg>
                             </div>
                             <div className="flex-grow">
-                                <h2 className="text-white text-lg title-font font-medium mb-3">The Catalyzer</h2>
-                                <p className="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.</p>
+                                <h2 className="text-white text-lg title-font font-medium mb-3">Multi Level Expansion</h2>
+                                <p className="leading-relaxed text-base">Expand the platform beyond schools and universities to include rural communities and citizen groups.</p>
                                 <a className="mt-3 text-indigo-400 inline-flex items-center">Learn More
                                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                         <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -159,8 +159,8 @@ const page = () => {
                                 </svg>
                             </div>
                             <div className="flex-grow">
-                                <h2 className="text-white text-lg title-font font-medium mb-3">Neptune</h2>
-                                <p className="leading-relaxed text-base">Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine.</p>
+                                <h2 className="text-white text-lg title-font font-medium mb-3">Build a Phygital Community</h2>
+                                <p className="leading-relaxed text-base">Organize physical meetups, workshops, and innovation boot camps to build a strong student network.</p>
                                 <a className="mt-3 text-indigo-400 inline-flex items-center">Learn More
                                     <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                         <path d="M5 12h14M12 5l7 7-7 7"></path>
