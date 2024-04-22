@@ -7,7 +7,7 @@ const Team = () => {
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col text-center w-full mb-20">
       <h1 className="text-2xl font-medium title-font mb-4 text-white">OUR TEAM</h1>
-      <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>
+      <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Our team of passionate builder who aim to tranform our project into a full-fledged working initiative!</p>
     </div>
     <div className="flex flex-wrap -m-4">
       <div className="p-4 lg:w-1/4 md:w-1/2">
@@ -16,7 +16,7 @@ const Team = () => {
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-white">Pranjal Jain</h2>
             <h3 className="text-gray-500 mb-3">UI Developer</h3>
-            <p className="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+            <p className="mb-4">Passionate about technology and social affairs.</p>
             <span className="inline-flex">
               <a className="text-gray-700">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">
@@ -43,7 +43,7 @@ const Team = () => {
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-white">Shreya Girotra</h2>
             <h3 className="text-gray-500 mb-3">UI Developer</h3>
-            <p className="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+            <p className="mb-4">Data driven and cause motivated</p>
             <span className="inline-flex">
               <a className="text-gray-700">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">
@@ -70,7 +70,7 @@ const Team = () => {
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-white">Avantika</h2>
             <h3 className="text-gray-500 mb-3">UI Developer</h3>
-            <p className="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+            <p className="mb-4">Developing solutions both online and offline</p>
             <span className="inline-flex">
               <a className="text-gray-700">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">
@@ -97,7 +97,7 @@ const Team = () => {
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-white">Manisha</h2>
             <h3 className="text-gray-500 mb-3">UI Developer</h3>
-            <p className="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+            <p className="mb-4">Hustling, thinking and tackling one problem at a time</p>
             <span className="inline-flex">
               <a className="text-gray-700">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-5 h-5" viewBox="0 0 24 24">
