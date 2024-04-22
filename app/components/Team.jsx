@@ -15,7 +15,7 @@ const Team = () => {
           <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="https://dummyimage.com/200x200"/>
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-white">Pranjal Jain</h2>
-            <h3 className="text-gray-500 mb-3">UI Developer</h3>
+            <h3 className="text-gray-500 mb-3">MERN Stack Developer</h3>
             <p className="mb-4">Passionate about technology and social affairs.</p>
             <span className="inline-flex">
               <a className="text-gray-700">
@@ -42,7 +42,7 @@ const Team = () => {
           <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="https://dummyimage.com/201x201"/>
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-white">Shreya Girotra</h2>
-            <h3 className="text-gray-500 mb-3">UI Developer</h3>
+            <h3 className="text-gray-500 mb-3">Data Scientist</h3>
             <p className="mb-4">Data driven and cause motivated</p>
             <span className="inline-flex">
               <a className="text-gray-700">
@@ -96,7 +96,7 @@ const Team = () => {
           <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="https://dummyimage.com/203x203"/>
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-white">Manisha</h2>
-            <h3 className="text-gray-500 mb-3">UI Developer</h3>
+            <h3 className="text-gray-500 mb-3">Logistics</h3>
             <p className="mb-4">Hustling, thinking and tackling one problem at a time</p>
             <span className="inline-flex">
               <a className="text-gray-700">
