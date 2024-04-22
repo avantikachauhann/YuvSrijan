@@ -9,7 +9,7 @@ const page = () => {
    
    <section className="text-gray-400 bg-gray-900 body-font">
   <div className="container px-5 py-24 mx-auto flex flex-wrap">
-   <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white mt-4 ">Benefits of joining us !!</h1>
+   <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white mt-4 ">How we work?</h1>
     <div className="flex flex-wrap w-full">
       <div className="lg:w-2/5 md:w-1/2 md:pr-10 md:py-6">
         <div className="flex relative pb-12">
@@ -22,8 +22,9 @@ const page = () => {
             </svg>
           </div>
           <div className="flex-grow pl-4">
-            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider"> 1</h2>
-            <p className="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider"> </h2>
+            <p className="leading-relaxed"><b>Guidance:</b> Our portal can connect students with other students and well as domain experts, and provide resources, workshops, or training programs to help them develop their ideas into actionable plans.
+</p>
           </div>
         </div>
         <div className="flex relative pb-12">
@@ -36,8 +37,8 @@ const page = () => {
             </svg>
           </div>
           <div className="flex-grow pl-4">
-            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider"> 2</h2>
-            <p className="leading-relaxed">Vice migas literally kitsch +1 pok pok. Truffaut hot chicken slow-carb health goth, vape typewriter.</p>
+            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider"> </h2>
+            <p className="leading-relaxed"><b>Mentorship:</b> Pairing students with mentors who can provide expertise, advice, and encouragement can be invaluable.</p>
           </div>
         </div>
         <div className="flex relative pb-12">
@@ -51,8 +52,8 @@ const page = () => {
             </svg>
           </div>
           <div className="flex-grow pl-4">
-            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider"> 3</h2>
-            <p className="leading-relaxed">Coloring book nar whal glossier master cleanse umami. Salvia +1 master cleanse blog taiyaki.</p>
+            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider"> </h2>
+            <p className="leading-relaxed"> <b>Financial resources: </b>Grants, scholarships, or crowdfunding opportunities to help students secure funding for their projects.</p>
           </div>
         </div>
         <div className="flex relative pb-12">
@@ -66,8 +67,8 @@ const page = () => {
             </svg>
           </div>
           <div className="flex-grow pl-4">
-            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider"> 4</h2>
-            <p className="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider"> </h2>
+            <p className="leading-relaxed"><b>Connecting Students</b> by developing a web portal</p>
           </div>
         </div>
         <div className="flex relative">
@@ -78,8 +79,8 @@ const page = () => {
             </svg>
           </div>
           <div className="flex-grow pl-4">
-            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider">5</h2>
-            <p className="leading-relaxed">Pitchfork ugh tattooed scenester echo park gastropub whatever cold-pressed retro.</p>
+            <h2 className="font-medium title-font text-sm text-white mb-1 tracking-wider"></h2>
+            <p className="leading-relaxed"><b>Providing</b> more student engagement</p>
           </div>
         </div>
       </div>
@@ -99,7 +100,7 @@ const page = () => {
   <div className="container px-5 py-24 mx-auto">
     <div className="flex flex-col text-center w-full mb-20">
       <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Our progress</h1>
-      <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom prism food truck ugh squid celiac humblebrag.</p>
+      <p className="lg:w-2/3 mx-auto leading-relaxed text-base">This area would show our progress, i.e, the number of communities associated with us, events organized by us and the opportunities provided by us.</p>
     </div>
     <div className="flex flex-wrap -m-4 text-center">
       <div className="p-4 md:w-1/4 sm:w-1/2 w-full">
@@ -139,7 +140,7 @@ const page = () => {
             <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
           </svg>
           <h2 className="title-font font-medium text-3xl text-white">46</h2>
-          <p className="leading-relaxed">Places</p>
+          <p className="leading-relaxed">Student Chapters</p>
         </div>
       </div>
     </div>
