@@ -4,8 +4,8 @@ import Navbar from "./components/Navbar";
 export default function Home() {
   return (
   <>
-  <Navbar />
-  
+  this is the main page 
+  use here to make the front 
   </>
   
   
