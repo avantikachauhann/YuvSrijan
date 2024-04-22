@@ -18,14 +18,14 @@ const page = () => {
         </div>
         <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
           <h2 className="title-font font-semibold text-white tracking-widest text-xs">EMAIL</h2>
-          <a className="text-indigo-400 leading-relaxed">example@email.com</a>
+          <a className="text-indigo-400 leading-relaxed">yuvsrijan@gmail.com</a>
           <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">PHONE</h2>
           <p className="leading-relaxed">123-456-7890</p>
         </div>
       </div>
     </div>
     <div className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
-      <h2 className="text-white text-lg mb-1 font-medium title-font">Feedback</h2>
+      <h2 className="text-white text-lg mb-1 font-medium title-font">Contact us</h2>
       <p className="leading-relaxed mb-5">Post-ironic portland shabby chic echo park, banjo fashion axe</p>
       <div className="relative mb-4">
         <label for="name" className="leading-7 text-sm text-gray-400">Name</label>
