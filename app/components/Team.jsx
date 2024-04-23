@@ -12,7 +12,7 @@ const Team = () => {
     <div className="flex flex-wrap -m-4">
       <div className="p-4 lg:w-1/4 md:w-1/2">
         <div className="h-full flex flex-col items-center text-center">
-          <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="https://dummyimage.com/200x200"/>
+          <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="pranjal.png" style={{objectFit:"contain"}}/>
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-white">Pranjal Jain</h2>
             <h3 className="text-gray-500 mb-3">MERN Stack Developer</h3>
@@ -39,7 +39,7 @@ const Team = () => {
       </div>
       <div className="p-4 lg:w-1/4 md:w-1/2">
         <div className="h-full flex flex-col items-center text-center">
-          <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="https://dummyimage.com/201x201"/>
+          <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="shreya.png" style={{objectFit:"contain"}}/>
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-white">Shreya Girotra</h2>
             <h3 className="text-gray-500 mb-3">Data Scientist</h3>
@@ -66,7 +66,7 @@ const Team = () => {
       </div>
       <div className="p-4 lg:w-1/4 md:w-1/2">
         <div className="h-full flex flex-col items-center text-center">
-          <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="https://dummyimage.com/202x202"/>
+          <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="avantika.png" style={{objectFit:"contain"}}/>
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-white">Avantika</h2>
             <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -93,7 +93,7 @@ const Team = () => {
       </div>
       <div className="p-4 lg:w-1/4 md:w-1/2">
         <div className="h-full flex flex-col items-center text-center">
-          <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="https://dummyimage.com/203x203"/>
+          <img alt="team" className="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="manisha.png" style={{objectFit:"contain"}}/>
           <div className="w-full">
             <h2 className="title-font font-medium text-lg text-white">Manisha</h2>
             <h3 className="text-gray-500 mb-3">Logistics</h3>
