@@ -6,7 +6,7 @@ const page = () => {
    <>
    
    {/* benefits of joining */}
-   
+   {/* update the about section by removing the pic  */}
    <section className="text-gray-400 bg-gray-900 body-font">
   <div className="container px-5 py-24 mx-auto flex flex-wrap">
    <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-white mt-4 ">How we work?</h1>
